@@ -1,0 +1,23 @@
+{
+  "name": "AppIdChecker",
+  "version": "0.0.1",
+  "description": "Google Play Application ID Checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+    "request":"*",
+    "jxm":"*",
+    "express":"*"
+ },
+  "keywords": [
+    "android",
+    "market",
+    "google",
+    "play"
+  ],
+  "author": "Nazir  Dogan",
+  "license": "ISC"
+}
