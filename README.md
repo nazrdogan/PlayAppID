@@ -7,3 +7,7 @@ to  run
 <code>
 node index.js 
 </code>
+
+on windows you can use PlayChecker.exe 
+ 
+ 
