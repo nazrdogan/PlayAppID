@@ -1,5 +1,5 @@
 var jxm = require('jxm');
-var express = require('express');
+
 var readline = require('readline');
 var request = require("request");
 var rl = readline.createInterface(process.stdin, process.stdout);
